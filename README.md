@@ -1,14 +1,16 @@
-# Aprendizaje adaptativo basado en el mantenimiento de invarianzas organizacionales neuronales
+# Adaptive learning based on the maintenance of neural organisational invariance
 
-## Resumen
-Un artículo de la revista Scientific Reports [1] propone un mecanismo de aprendizaje que genera comportamientos adaptativos, en entornos sencillos, buscando los puntos críticos, que son las transiciones de fase comentadas anteriormente.
+## Abstract
+An article in the journal Scientific Reports [1] proposes a learning mechanism that generates adaptive behaviour in simple environments by searching for the critical points, which are the phase transitions discussed above.
 
-La primera parte del trabajo consiste en acercar el funcionamiento del algoritmo al de los sistemas biológicos reales. Esto se consigue sustituyendo la red neuronal finita del mismo por una red infinita. En la segunda parte se replica el algoritmo con la nueva arquitectura y se comprueban sus resultados no solo en los mismos entornos, sino también en uno mas complejo. Estos entornos son: Un robot, un péndulo con una barra articulada y una serpiente que aprender a avanzar.
+The first part of the work consists of bringing the algorithm's operation closer to that of real biological systems. This is achieved by replacing the finite neural network of the algorithm with an infinite network. In the second part, the algorithm is replicated with the new architecture and its results are tested not only in the same environments, but also in a more complex one. These environments are: A robot, a pendulum with an articulated bar and a snake learning to move forward.
 
-En todos los entornos se observa que, simplemente buscando estos puntos críticos, los agentes generan comportamientos interesantes sin haber sido programados para ello. Además, la complejidad de su comportamiento aumenta a medida que se aumenta el tamaño de las redes neuronales.
+In all environments it is observed that, simply by looking for these critical points, the agents generate interesting behaviours without having been programmed to do so. Moreover, the complexity of their behaviour increases as the size of the neural networks increases.
 
-## Código
-En este proyecto se han subido diferentes partes del código utilizado para la realización del trabajo fin de máster. Los siguientes entornos han sido analizados: Mountain Car, Acrobot y Swimmer.
+## Code
+In this project, different parts of the code used for the master's thesis have been uploaded. The following environments have been analysed: Mountain Car, Acrobot and Swimmer.
 
-## Referencias
-En este proyecto se ha tomado como referencia un artículo publicado en la revista Scientific Reports, cuyo código y parte de los resultados obtenidos se pueden consultar en el siguiente repositorio: [1] https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance
+## References
+In this project we have taken as a reference an article published in the journal Scientific Reports, whose code and part of the results obtained can be consulted in the following repository: [1] https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance
+
+Translated with www.DeepL.com/Translator (free version)
