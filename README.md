@@ -12,5 +12,3 @@ In this project, different parts of the code used for the master's thesis have b
 
 ## References
 In this project we have taken as a reference an article published in the journal Scientific Reports, whose code and part of the results obtained can be consulted in the following repository: [1] https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance
-
-Translated with www.DeepL.com/Translator (free version)
